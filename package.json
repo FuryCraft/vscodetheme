@@ -1,0 +1,38 @@
+{
+	"name": "fury_craft-theme",
+	"displayName": "The development theme of Fury_Craft",
+	"description": "The theme I use for development in general",
+	"publisher": "Fury_Craft",
+	"version": "0.8.0",
+	"icon": "images/icon.jpg",
+	"license": "MIT",
+	"repository": {
+		"url": "https://github.com/FuryCraft/vscodetheme",
+		"type": "git"
+	},
+	"engines": {
+		"vscode": "^1.33.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Perso",
+				"uiTheme": "vs-dark",
+				"path": "./themes/furycraft-perso2.json"
+			},
+			{
+				"label": "Perso Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/furycraft-perso.json"
+			},
+			{
+				"label": "Record",
+				"uiTheme": "vs-dark",
+				"path": "./themes/furycraft.json"
+			}
+		]
+	}
+}
