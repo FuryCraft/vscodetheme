@@ -1,6 +1,6 @@
-# [Fury_Craft Them](https://marketplace.visualstudio.com/items?itemName=aolland.gckn-theme)
+# [Fury_Craft Theme](https://marketplace.visualstudio.com/items?itemName=aolland.gckn-theme)
 
-The theme I use for development and my [YouTube videos](https://www.youtube.com/c/getcodingknowledge).
+The theme I use for development and my [YouTube videos](https://www.youtube.com/c/furycraft).
 
 > You can find the extension directly on GitHub or the VS Code market: [GitHub](https://github.com/FuryCraft/vscodetheme) | [Marketplace](https://marketplace.visualstudio.com/items?itemName=aolland.gckn-theme)
 
